@@ -707,56 +707,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 🙏 Acknowledgments
 
-- **Roboflow** for the excellent model hosting and inference API
-- **Tesseract OCR** for open-source text recognition
-- **OpenCV** for computer vision capabilities
-- **Flask** for the lightweight web framework
-- **Railway** for seamless deployment platform
-- Community contributors and testers
 
-## 📧 Contact
-
-**Project Maintainer**: Kumar Vishal
-- GitHub: [@kumarvishal01971](https://github.com/kumarvishal01971)
-- Repository: [Traffic Violation Detection](https://github.com/yourusername/traffic-violation-detection)
-
-## 🔮 Future Enhancements
-
-- [ ] Real-time camera feed processing
-- [ ] Multi-language OCR support
-- [ ] Speed violation detection
-- [ ] Email/SMS notifications
-- [ ] Advanced analytics dashboard
-- [ ] Mobile app integration
-- [ ] Export reports to PDF
-- [ ] Multi-camera support
-- [ ] Cloud storage integration
-- [ ] RESTful API for external integrations
-
-## 📊 Performance Metrics
-
-- **Processing Speed**: ~15-20 seconds for 30-second video
-- **Detection Accuracy**: 
-  - No Helmet: ~85%
-  - Triple Riding: ~80%
-  - Red Light: ~90%
-  - Plate Recognition: ~75-80%
-- **Supported File Size**: Up to 100MB
-- **Frame Skip**: Every 3rd frame (configurable)
-- **API Response Time**: ~500ms per frame
-
-## 🎓 Academic Use
-
-This project can be used for educational purposes. Please provide proper attribution.
-
-## 🌟 Star History
-
-If you find this project helpful, please ⭐ star the repository!
-
----
-
-**Made with ❤️ for Traffic Safety**
-
-**Deploy Status**: LIVE!!! Click here to view : https://traffic-violation-detection-ceo6.onrender.com/
